@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stm32f0xx.h": "c",
+        "stm32f070xb.h": "c",
+        "stm32f0xx_hal.h": "c",
+        "stm32f0xx_hal_conf.h": "c",
+        "stm32f0xx_hal_gpio.h": "c",
+        "stm32f0xx_hal_def.h": "c"
+    }
+}
